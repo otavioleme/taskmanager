@@ -1,1 +1,13 @@
-TaskManager.API/appsettings.json
+# .NET
+**/bin/
+**/obj/
+**/appsettings.json
+
+# Node
+**/node_modules/
+**/.next/
+**/.env.local
+
+# IDEs
+.vscode/
+.idea/
